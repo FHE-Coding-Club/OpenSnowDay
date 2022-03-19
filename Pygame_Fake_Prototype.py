@@ -29,11 +29,11 @@ other1_text = 'City Name :'
 other2_text = 'Snow Day Results :'
 reault = ''
 
-img = pygame.image.load('snow.png')
+#img = pygame.image.load('snow.png')
 
 #Icon
-pygame.display.set_icon(img)
-pygame.display.set_caption('High School Snow Day Calculator')
+#pygame.display.set_icon(img)
+#pygame.display.set_caption('High School Snow Day Calculator')
 
 snowShowers = False
 snowLight = False
